@@ -1097,7 +1097,7 @@ final class SettingsWindowController: NSObject, NSWindowDelegate, NSTextFieldDel
         form.addSpacer(12)
         form.addMultiline("欢迎提出意见和反馈。")
         form.addText("lidonggemail@gmail.com")
-        form.addText("github.com/LiDongB/none-test")
+        form.addText("github.com/LiDongB/dockpeek")
         let email = form.addButton("发送邮件", target: self, action: #selector(sendEmail))
         email.image = NSImage(systemSymbolName: "envelope", accessibilityDescription: nil)
         email.imagePosition = .imageLeading
@@ -1165,7 +1165,7 @@ final class SettingsWindowController: NSObject, NSWindowDelegate, NSTextFieldDel
         if let url = URL(string: "mailto:lidonggemail@gmail.com") { NSWorkspace.shared.open(url) }
     }
     @objc private func openGitHub() {
-        if let url = URL(string: "https://github.com/LiDongB/none-test") { NSWorkspace.shared.open(url) }
+        if let url = URL(string: "https://github.com/LiDongB/dockpeek") { NSWorkspace.shared.open(url) }
     }
 
     private func makePopup(_ titles: [String], action: Selector) -> NSPopUpButton {

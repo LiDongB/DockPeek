@@ -8,14 +8,14 @@ DockPeek is a small, local desktop utility written in Swift with AppKit and Scre
 
 ## Downloads
 
-1. **[Download the installer — DockPeek V0.4.1](https://github.com/LiDongB/none-test/releases/download/v0.4.1/DockPeek-0.4.1.dmg)**  
+1. **[Download the installer — DockPeek V0.4.1](https://github.com/LiDongB/dockpeek/releases/download/v0.4.1/DockPeek-0.4.1.dmg)**  
    Open the disk image and drag DockPeek to Applications.
-2. **[Download the editable source](https://github.com/LiDongB/none-test/releases/download/v0.4.1/DockPeek-0.4.1-source.zip)**  
+2. **[Download the editable source](https://github.com/LiDongB/dockpeek/releases/download/v0.4.1/DockPeek-0.4.1-source.zip)**  
    Includes the Swift project, assets, build scripts, and documentation. Open the folder in Codex, another coding tool, or your editor to inspect and modify it.
 
 **Which file should I choose?** Use **DockPeek-0.4.1.dmg** to install DockPeek, or **DockPeek-0.4.1-source.zip** to edit the project. GitHub also automatically lists **Source code (zip)** and **Source code (tar.gz)** on the release page, so four downloads in the Assets section are normal.
 
-See the [release page](https://github.com/LiDongB/none-test/releases/tag/v0.4.1) for release notes and checksums.
+See the [release page](https://github.com/LiDongB/dockpeek/releases/tag/v0.4.1) for release notes and checksums.
 
 ## Requirements and installation
 
@@ -88,7 +88,7 @@ Verification creates temporary test windows and screenshots, exercises selection
 
 ## Feedback
 
-[Send email](mailto:lidonggemail@gmail.com) to **lidonggemail@gmail.com**, or open a [GitHub issue](https://github.com/LiDongB/none-test/issues).
+[Send email](mailto:lidonggemail@gmail.com) to **lidonggemail@gmail.com**, or open a [GitHub issue](https://github.com/LiDongB/dockpeek/issues).
 
 Bug reports, suggestions, and translation corrections are welcome. Include your macOS version, the affected app, and what you did versus what happened. The author is a Chinese student and a living human, not a bot. Your email goes to that human, who reads the feedback — even if the code-writing team never sleeps.
 
