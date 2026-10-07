@@ -4,12 +4,16 @@
 
 DockPeek is a small, local desktop utility written in Swift with AppKit and ScreenCaptureKit. It brings familiar taskbar-style window previews to the Dock, with native macOS controls, configurable appearance, and no third-party runtime dependencies.
 
+[Downloads](#downloads) · [Screenshots](#screenshots) · [Build instructions](#build-and-edit) · [Feedback](#feedback)
+
 ## Downloads
 
 1. **[Download the installer — DockPeek V0.4.1](https://github.com/LiDongB/none-test/releases/download/v0.4.1/DockPeek-0.4.1.dmg)**  
    Open the disk image and drag DockPeek to Applications.
 2. **[Download the editable source](https://github.com/LiDongB/none-test/releases/download/v0.4.1/DockPeek-0.4.1-source.zip)**  
    Includes the Swift project, assets, build scripts, and documentation. Open the folder in Codex, another coding tool, or your editor to inspect and modify it.
+
+**Which file should I choose?** Use **DockPeek-0.4.1.dmg** to install DockPeek, or **DockPeek-0.4.1-source.zip** to edit the project. GitHub also automatically lists **Source code (zip)** and **Source code (tar.gz)** on the release page, so four downloads in the Assets section are normal.
 
 See the [release page](https://github.com/LiDongB/none-test/releases/tag/v0.4.1) for release notes and checksums.
 
